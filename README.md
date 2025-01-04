@@ -49,7 +49,7 @@
 - 稳定的网络连接
 - 有效的邮箱账户
 - 可用的代理（HTTP/SOCKS5）
-- 验证码服务订阅（2captcha/anticaptcha）
+- 验证码服务订阅（[2captcha](https://2captcha.com/zh/enterpage)/[anticaptcha](https://anti-captcha.com/zh/clients/reports/dashboard)）
 
 ## 🛠️ 安装
 
